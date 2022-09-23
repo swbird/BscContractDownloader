@@ -1,0 +1,2 @@
+# BscContractDownloader
+在bscscan一次性下载所有合约文件,一个个手动复制粘贴太麻烦了
