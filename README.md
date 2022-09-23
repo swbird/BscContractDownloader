@@ -4,9 +4,9 @@
 
 # 编译成.exe文件然后将所在文件夹添加到环境变量里面
  
- '''
+
 pyinstaller -F contractDownloader.py
- '''
+
  
  # 使用方法
  
