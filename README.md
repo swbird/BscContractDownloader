@@ -11,3 +11,6 @@ pyinstaller -F contractDownloader.py
  # 使用方法
  
  contractDownloader --address 0xTheContractAddressWhatUWantToDownload
+
+# 效果图
+![image](https://user-images.githubusercontent.com/43195509/192009808-a5d2233f-4af4-4b9e-93f6-ee6256c2c0d1.png)
